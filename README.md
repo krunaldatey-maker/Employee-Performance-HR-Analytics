@@ -110,3 +110,6 @@ This project uses a synthetic HR dataset for educational and portfolio purposes.
 ---
 
 ⭐ **Tools used:** Python | MySQL | Power BI
+## 📊 Power BI Dashboard Preview
+
+![HR Analytics Dashboard](Reports/HR_Dashboard_Screenshot.png)
